@@ -1,0 +1,8 @@
+C:\Users\zameer.mohammed\Desktop\New folder\AddNDigits\bin\Debug\netcoreapp1.1\AddNDigits.deps.json
+C:\Users\zameer.mohammed\Desktop\New folder\AddNDigits\bin\Debug\netcoreapp1.1\AddNDigits.runtimeconfig.json
+C:\Users\zameer.mohammed\Desktop\New folder\AddNDigits\bin\Debug\netcoreapp1.1\AddNDigits.runtimeconfig.dev.json
+C:\Users\zameer.mohammed\Desktop\New folder\AddNDigits\bin\Debug\netcoreapp1.1\AddNDigits.dll
+C:\Users\zameer.mohammed\Desktop\New folder\AddNDigits\bin\Debug\netcoreapp1.1\AddNDigits.pdb
+C:\Users\zameer.mohammed\Desktop\New folder\AddNDigits\obj\Debug\netcoreapp1.1\AddNDigits.AssemblyInfo.cs
+C:\Users\zameer.mohammed\Desktop\New folder\AddNDigits\obj\Debug\netcoreapp1.1\AddNDigits.dll
+C:\Users\zameer.mohammed\Desktop\New folder\AddNDigits\obj\Debug\netcoreapp1.1\AddNDigits.pdb
