@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+using System;
 using System.IO;
-using System.Linq;
-using System.Numerics;
-
 
 namespace AddNDigits
 {
@@ -11,77 +7,60 @@ namespace AddNDigits
     {
         static void Main(string[] args)
         {
-            //This will increase the Input intake to 2^15
+            //It will increase the input intake buffer size.
             byte[] inputBuffer = new byte[(int)Math.Pow(2, 15)];
             Stream inputStream = Console.OpenStandardInput(inputBuffer.Length);
             Console.SetIn(new StreamReader(inputStream, Console.InputEncoding, false, inputBuffer.Length));
 
-            //Declaring Two Strings for Taking the input.
-            string FirstNumber = String.Empty,
-                   SecondNumber = String.Empty;
-
-            //Reading the First Number
+            //To read the First number. 
             Console.WriteLine("Enter the first number : ");
-            FirstNumber = Console.ReadLine();
-            
-            //Reading the First Number
+            string firstNumber = Console.ReadLine();
+
+            //To read the Second number.
             Console.WriteLine("Enter the second number : ");
-            SecondNumber = Console.ReadLine();
+            string secondNumber = Console.ReadLine();
 
-            if(FirstNumber.Length > SecondNumber.Length)
-            {
-                //Padding the '0' to left of SecondNumber till the length of FirstNumber. 
-                SecondNumber = SecondNumber.PadLeft(FirstNumber.Length,'0');
-            }
-            else
-            {
-                //Padding the '0' to left of FirstNumber till the length of SecondNumber.
-                FirstNumber = FirstNumber.PadLeft(SecondNumber.Length,'0');
-            }
+            //Finds which is smaller in length and pads with '0' to make the two numbers equal in length.
+            firstNumber = (firstNumber.Length < secondNumber.Length) ? Pad(secondNumber.Length, firstNumber) : firstNumber;
+            secondNumber = (firstNumber.Length > secondNumber.Length) ? Pad(firstNumber.Length, secondNumber) : secondNumber;
 
-            //Converting the String to Char Array
-            char[] FirstCharArray = FirstNumber.ToCharArray();
-            char[] SecondCharArray = SecondNumber.ToCharArray();
-            
-            //Converting the Char Array to Int Array.
-            int[] FirstIntArray = GetIntArray(FirstCharArray);
-            int[] SecondIntArray = GetIntArray(SecondCharArray);
-
-            //Declaring a Array to store Result.
-            int[] ResultIntArray = new int[FirstIntArray.Length];
+            //Declaring the an array to store result. 
+            int[] resultArray = new int[firstNumber.Length];
             int carry = 0;
 
-            //Adding the Array From Reverse Order.
-            for(int i = FirstIntArray.Length - 1; i >= 0; i--)
+            //Itreating through each digit from left and adding the digits.
+            for (int i = firstNumber.Length - 1; i >= 0; i--)
             {
-                ResultIntArray[i] = (FirstIntArray[i] + SecondIntArray[i] + carry) % 10;
-                carry = (FirstIntArray[i] + SecondIntArray[i] + carry) / 10;
+                resultArray[i] = ((firstNumber[i] - 48) + (secondNumber[i] - 48) + carry) % 10;
+                carry = ((firstNumber[i] - 48) + (secondNumber[i] - 48) + carry) / 10;
             }
 
             //Printing the result of the Addition.
             Console.WriteLine("The Sum of two number is : ");
-            if(carry == 1)
+            if (carry > 0)
             {
                 Console.Write(carry);
             }
-
-            for(int i = 0; i < ResultIntArray.Length; i++)
+            foreach (int i in resultArray)
             {
-                Console.Write(ResultIntArray[i]);
-            }   
-
+                Console.Write(i);
+            }
             Console.ReadLine();
-           
         }
 
-        private static int[] GetIntArray(char[] arr)
+        ///<summary>
+        /// Adds '0' to the left of the number to make the length equal to numbers
+        ///</summary>
+        ///<params name="length">This is length that has to be obtained</param>
+        ///<params name="input">This string is to be padded with '0' to obtain the required length</param>
+        private static string Pad(int length, string input)
         {
-            int[] IntArr = new int[arr.Length];
-            for(int i = 0; i < arr.Length; i++)
+            int difference = length - input.Length;
+            for (int i = 0; i < difference; i++)
             {
-                IntArr[i] = int.Parse(Convert.ToString(arr[i]));
+                input = "0" + input;
             }
-            return IntArr;
+            return input;
         }
     }
 }

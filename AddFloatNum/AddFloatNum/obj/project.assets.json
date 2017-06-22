@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.5": {},
+    ".NETFramework,Version=v4.5/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": []
+  },
+  "packageFolders": {
+    "C:\\Users\\zameer.mohammed\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\zameer.mohammed\\Desktop\\C#Projects\\AddFloatNum\\AddFloatNum\\AddFloatNum.csproj",
+      "projectName": "AddFloatNum",
+      "projectPath": "C:\\Users\\zameer.mohammed\\Desktop\\C#Projects\\AddFloatNum\\AddFloatNum\\AddFloatNum.csproj",
+      "outputPath": "C:\\Users\\zameer.mohammed\\Desktop\\C#Projects\\AddFloatNum\\AddFloatNum\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "Net45"
+      ],
+      "files": {
+        "lib/net45/AddFloatNum.dll": "C:\\Users\\zameer.mohammed\\Desktop\\C#Projects\\AddFloatNum\\AddFloatNum\\bin\\placeholder\\net45\\AddFloatNum.dll"
+      },
+      "frameworks": {
+        "net45": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net45": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

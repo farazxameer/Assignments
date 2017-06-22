@@ -26,3 +26,10 @@ c:\Users\zameer.mohammed\Desktop\C#Projects\AddNDigits\bin\Debug\Net451\AddNDigi
 c:\Users\zameer.mohammed\Desktop\C#Projects\AddNDigits\obj\Debug\Net451\AddNDigits.AssemblyInfo.cs
 c:\Users\zameer.mohammed\Desktop\C#Projects\AddNDigits\obj\Debug\Net451\AddNDigits.exe
 c:\Users\zameer.mohammed\Desktop\C#Projects\AddNDigits\obj\Debug\Net451\AddNDigits.pdb
+c:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddNDigits\bin\Debug\Net451\AddNDigits.runtimeconfig.json
+c:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddNDigits\bin\Debug\Net451\AddNDigits.runtimeconfig.dev.json
+c:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddNDigits\bin\Debug\Net451\AddNDigits.exe
+c:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddNDigits\bin\Debug\Net451\AddNDigits.pdb
+c:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddNDigits\obj\Debug\Net451\AddNDigits.AssemblyInfo.cs
+c:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddNDigits\obj\Debug\Net451\AddNDigits.exe
+c:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddNDigits\obj\Debug\Net451\AddNDigits.pdb

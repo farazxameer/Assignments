@@ -1,0 +1,14 @@
+C:\Users\zameer.mohammed\Desktop\C#Projects\AddFloatNum\AddFloatNum\bin\Debug\Net45\AddFloatNum.runtimeconfig.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\AddFloatNum\AddFloatNum\bin\Debug\Net45\AddFloatNum.runtimeconfig.dev.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\AddFloatNum\AddFloatNum\bin\Debug\Net45\AddFloatNum.exe
+C:\Users\zameer.mohammed\Desktop\C#Projects\AddFloatNum\AddFloatNum\bin\Debug\Net45\AddFloatNum.pdb
+C:\Users\zameer.mohammed\Desktop\C#Projects\AddFloatNum\AddFloatNum\obj\Debug\Net45\AddFloatNum.AssemblyInfo.cs
+C:\Users\zameer.mohammed\Desktop\C#Projects\AddFloatNum\AddFloatNum\obj\Debug\Net45\AddFloatNum.exe
+C:\Users\zameer.mohammed\Desktop\C#Projects\AddFloatNum\AddFloatNum\obj\Debug\Net45\AddFloatNum.pdb
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddFloatNum\AddFloatNum\bin\Debug\Net45\AddFloatNum.runtimeconfig.json
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddFloatNum\AddFloatNum\bin\Debug\Net45\AddFloatNum.runtimeconfig.dev.json
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddFloatNum\AddFloatNum\bin\Debug\Net45\AddFloatNum.exe
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddFloatNum\AddFloatNum\bin\Debug\Net45\AddFloatNum.pdb
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddFloatNum\AddFloatNum\obj\Debug\Net45\AddFloatNum.AssemblyInfo.cs
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddFloatNum\AddFloatNum\obj\Debug\Net45\AddFloatNum.exe
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\AddFloatNum\AddFloatNum\obj\Debug\Net45\AddFloatNum.pdb
