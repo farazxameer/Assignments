@@ -1,0 +1,9 @@
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\Static\ProcessTwo\bin\Debug\net\Net451\ProcessTwo.runtimeconfig.json
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\Static\ProcessTwo\bin\Debug\net\Net451\ProcessTwo.runtimeconfig.dev.json
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\Static\ProcessTwo\bin\Debug\net\Net451\ProcessTwo.exe
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\Static\ProcessTwo\bin\Debug\net\Net451\ProcessTwo.pdb
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\Static\ProcessTwo\bin\Debug\net\Net451\Static.exe
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\Static\ProcessTwo\bin\Debug\net\Net451\Static.pdb
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\Static\ProcessTwo\obj\Debug\Net451\ProcessTwo.AssemblyInfo.cs
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\Static\ProcessTwo\obj\Debug\Net451\ProcessTwo.exe
+C:\Users\zameer.mohammed\Documents\Projects\zameermohammed\Static\ProcessTwo\obj\Debug\Net451\ProcessTwo.pdb

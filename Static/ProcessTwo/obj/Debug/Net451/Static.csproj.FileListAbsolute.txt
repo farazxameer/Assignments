@@ -1,0 +1,11 @@
+C:\Users\zameer.mohammed\Desktop\C#Projects\Static\bin\Debug\Net451\Static.runtimeconfig.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\Static\bin\Debug\Net451\Static.runtimeconfig.dev.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\Static\bin\Debug\Net451\Static.exe
+C:\Users\zameer.mohammed\Desktop\C#Projects\Static\bin\Debug\Net451\Static.pdb
+C:\Users\zameer.mohammed\Desktop\C#Projects\Static\obj\Debug\Net451\Static.AssemblyInfo.cs
+C:\Users\zameer.mohammed\Desktop\C#Projects\Static\obj\Debug\Net451\Static.exe
+C:\Users\zameer.mohammed\Desktop\C#Projects\Static\obj\Debug\Net451\Static.pdb
+C:\Users\zameer.mohammed\Desktop\C#Projects\Static\bin\Debug\net\Net451\Static.runtimeconfig.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\Static\bin\Debug\net\Net451\Static.runtimeconfig.dev.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\Static\bin\Debug\net\Net451\Static.exe
+C:\Users\zameer.mohammed\Desktop\C#Projects\Static\bin\Debug\net\Net451\Static.pdb

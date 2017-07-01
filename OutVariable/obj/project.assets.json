@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.5.1": {},
+    ".NETFramework,Version=v4.5.1/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\zameer.mohammed\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\zameer.mohammed\\Desktop\\C#Projects\\OutVariable\\OutVariable.csproj",
+      "projectName": "OutVariable",
+      "projectPath": "C:\\Users\\zameer.mohammed\\Desktop\\C#Projects\\OutVariable\\OutVariable.csproj",
+      "outputPath": "C:\\Users\\zameer.mohammed\\Desktop\\C#Projects\\OutVariable\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "Net451"
+      ],
+      "files": {
+        "lib/net451/OutVariable.dll": "C:\\Users\\zameer.mohammed\\Desktop\\C#Projects\\OutVariable\\bin\\placeholder\\net451\\OutVariable.dll"
+      },
+      "frameworks": {
+        "net451": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net451": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

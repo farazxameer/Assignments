@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.5.1": {},
+    ".NETFramework,Version=v4.5.1/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\zameer.mohammed\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\zameer.mohammed\\Documents\\Projects\\zameermohammed\\Static\\ProcessOne\\Static.csproj",
+      "projectName": "Static",
+      "projectPath": "C:\\Users\\zameer.mohammed\\Documents\\Projects\\zameermohammed\\Static\\ProcessOne\\Static.csproj",
+      "outputPath": "C:\\Users\\zameer.mohammed\\Documents\\Projects\\zameermohammed\\Static\\ProcessOne\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "Net451"
+      ],
+      "files": {
+        "lib/net451/Static.dll": "C:\\Users\\zameer.mohammed\\Documents\\Projects\\zameermohammed\\Static\\ProcessOne\\bin\\placeholder\\net451\\Static.dll"
+      },
+      "frameworks": {
+        "net451": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net451": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
