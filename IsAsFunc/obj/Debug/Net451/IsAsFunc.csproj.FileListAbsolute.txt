@@ -1,0 +1,11 @@
+C:\Users\zameer.mohammed\Desktop\C#Projects\IsAsFunc\bin\Debug\Net451\IsAsFunc.runtimeconfig.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\IsAsFunc\bin\Debug\Net451\IsAsFunc.runtimeconfig.dev.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\IsAsFunc\bin\Debug\Net451\IsAsFunc.exe
+C:\Users\zameer.mohammed\Desktop\C#Projects\IsAsFunc\bin\Debug\Net451\IsAsFunc.pdb
+C:\Users\zameer.mohammed\Desktop\C#Projects\IsAsFunc\obj\Debug\Net451\IsAsFunc.AssemblyInfo.cs
+C:\Users\zameer.mohammed\Desktop\C#Projects\IsAsFunc\obj\Debug\Net451\IsAsFunc.exe
+C:\Users\zameer.mohammed\Desktop\C#Projects\IsAsFunc\obj\Debug\Net451\IsAsFunc.pdb
+C:\Users\zameer.mohammed\Desktop\C#Projects\IsAsFunc\bin\Debug\net\Net451\IsAsFunc.runtimeconfig.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\IsAsFunc\bin\Debug\net\Net451\IsAsFunc.runtimeconfig.dev.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\IsAsFunc\bin\Debug\net\Net451\IsAsFunc.exe
+C:\Users\zameer.mohammed\Desktop\C#Projects\IsAsFunc\bin\Debug\net\Net451\IsAsFunc.pdb
