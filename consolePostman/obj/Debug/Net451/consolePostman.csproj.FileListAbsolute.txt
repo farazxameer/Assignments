@@ -1,0 +1,7 @@
+C:\Users\zameer.mohammed\Desktop\C#Projects\consolePostman\bin\Debug\Net451\consolePostman.runtimeconfig.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\consolePostman\bin\Debug\Net451\consolePostman.runtimeconfig.dev.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\consolePostman\bin\Debug\Net451\consolePostman.exe
+C:\Users\zameer.mohammed\Desktop\C#Projects\consolePostman\bin\Debug\Net451\consolePostman.pdb
+C:\Users\zameer.mohammed\Desktop\C#Projects\consolePostman\obj\Debug\Net451\consolePostman.AssemblyInfo.cs
+C:\Users\zameer.mohammed\Desktop\C#Projects\consolePostman\obj\Debug\Net451\consolePostman.exe
+C:\Users\zameer.mohammed\Desktop\C#Projects\consolePostman\obj\Debug\Net451\consolePostman.pdb
