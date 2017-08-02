@@ -1,0 +1,7 @@
+C:\Users\zameer.mohammed\Desktop\C#Projects\Mapper\bin\Debug\Net451\Mapper.pdb
+C:\Users\zameer.mohammed\Desktop\C#Projects\Mapper\obj\Debug\Net451\Mapper.AssemblyInfo.cs
+C:\Users\zameer.mohammed\Desktop\C#Projects\Mapper\obj\Debug\Net451\Mapper.pdb
+C:\Users\zameer.mohammed\Desktop\C#Projects\Mapper\bin\Debug\Net451\Mapper.runtimeconfig.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\Mapper\bin\Debug\Net451\Mapper.runtimeconfig.dev.json
+C:\Users\zameer.mohammed\Desktop\C#Projects\Mapper\bin\Debug\Net451\Mapper.exe
+C:\Users\zameer.mohammed\Desktop\C#Projects\Mapper\obj\Debug\Net451\Mapper.exe

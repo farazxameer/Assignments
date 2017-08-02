@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.5.1": {},
+    ".NETFramework,Version=v4.5.1/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\zameer.mohammed\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\zameer.mohammed\\Desktop\\C#Projects\\ObjectImplementation\\ObjectImplementation.csproj",
+      "projectName": "ObjectImplementation",
+      "projectPath": "C:\\Users\\zameer.mohammed\\Desktop\\C#Projects\\ObjectImplementation\\ObjectImplementation.csproj",
+      "outputPath": "C:\\Users\\zameer.mohammed\\Desktop\\C#Projects\\ObjectImplementation\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "Net451"
+      ],
+      "files": {
+        "lib/net451/ObjectImplementation.dll": "C:\\Users\\zameer.mohammed\\Desktop\\C#Projects\\ObjectImplementation\\bin\\placeholder\\net451\\ObjectImplementation.dll"
+      },
+      "frameworks": {
+        "net451": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net451": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
